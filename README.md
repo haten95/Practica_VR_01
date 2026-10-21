@@ -15,7 +15,7 @@ Arco: Cálculo de tensión basado en la distancia entre las manos al soltar (sin
 
 Hacha arrojadiza: Hereda la inercia del mando al soltarse y apaga sus físicas en el frame del impacto para quedarse clavada en las dianas.
 
-Subfusil (Custom): Arma automática construida sobre la herencia de la pistola.
+Escopeta (Custom): Arma construida sobre la herencia de la pistola.
 
 Modo Arcade: 10 rondas con límite de tiempo de 45 segundos. Hay que alcanzar un umbral de puntos que va subiendo en cada ronda. Al final de la ronda 10, ganas.
 
