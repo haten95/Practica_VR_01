@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/irodr/Documents/Ingenieria de Software/3 ano/VR/Practica_01/Content/Blueprints/Weapons/BP_Bow.uasset"
+			]
+		}
+	]
+}
